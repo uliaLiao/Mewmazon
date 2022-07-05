@@ -11,11 +11,11 @@ Week 3 (Nov.20 - Nov.25): Finish the implementation of Staffs
 
 ## Task Breakdown
 
-Jiaying Liao: frontend and GUI design，SQL Queries implementation
+Jiaying Liao: frontend, GUI design, SQL Queries implementation
 
 Zhonghao(Richard) Yang: frontend and backend 
 
-Ding Ma: backend
+Ding Ma: backend, SQL Queries implementation
 
 ## How to use:
 https://www.students.cs.ubc.ca/~rzhyang/mewmazon/src/php
